@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center" android:layout_height="match_parent">
+    <ImageButton
+        android:id="@+id/small_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:contentDescription="@string/sml"
+        android:src="@drawable/small"/>
+    <ImageButton
+        android:id="@+id/medium_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@null"
+        android:layout_weight="1"
+        android:contentDescription="@string/med"
+        android:src="@drawable/medium"/>
+    <ImageButton
+        android:id="@+id/large_brush"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:contentDescription="@string/lrg"
+        android:src="@drawable/large"/>
+
+</LinearLayout>

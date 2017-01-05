@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorTitle">#212121</color>
+    <color name="colorMessageBackground">#ffaabbff</color>
+    <color name="colorMessageBorder">#ff8899dd</color>
+    <!-- Deacon Blues -->
+    <color name="indigo">#3F51B5</color>
+    <color name="indigo_dark">#303F9F</color>
+    <color name="cyan">#00BCD4</color>
+    <!-- Green Earrings -->
+    <color name="green">#4CAF50</color>
+    <color name="green_dark">#388E3C</color>
+    <color name="amber">#FFC107</color>
+    <!-- Black Cow -->
+    <color name="almost_black">#212121</color>
+    <color name="black">#000000</color>
+    <color name="mellow_brown">#D7CCC8</color>
+</resources>
+
