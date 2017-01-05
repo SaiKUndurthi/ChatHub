@@ -15,6 +15,8 @@ ChatHub is a multi-user android chat application.
 	•	Firebase Android API
 	•	Google Map API
 	•	Google + API
+	•	MediaPlayer
+	•	Camera API
 	•	Recycler View
 	•	Glide image library
 
