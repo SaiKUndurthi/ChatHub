@@ -21,7 +21,7 @@ ChatHub is a multi-user android chat application.
 	•	Recycler View
 	•	Glide image library
 #Screenshots
-	•	![Alt text](/relative/screenshots/to/Signin.jpeg?raw=true "Optional Title")
+	•	![Alt text](https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Signin.jpeg "Optional Title")
 	•	Google Map API
 	•	Google + API
 	•	MediaPlayer
