@@ -20,7 +20,7 @@ ChatHub is a multi-user android chat application.
 	•	Espresso
 	•	Recycler View
 	•	Glide image library
-<p>Screen Shots:<br>
+#Screen Shots:
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Signin.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Signin.jpeg" width="300" height="500" style="max-width:100%;"></a>
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/SettingColorScheme.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/SettingColorScheme.jpeg" width="300" height="500" style="max-width:100%;"></a>
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Texting.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Texting.jpeg" width="300" height="500" style="max-width:100%;"></a>
