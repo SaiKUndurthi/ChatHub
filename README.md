@@ -29,4 +29,4 @@ ChatHub is a multi-user android chat application.
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/CanvasDrawing.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/CanvasDrawing.jpeg" width="300" height="500" style="max-width:100%;"></a>
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/DrawAndSend.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/DrawAndSend.jpeg" width="300" height="500" style="max-width:100%;"></a>
 <a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/AudioFileSharing.jpeg" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/AudioFileSharing.jpeg" width="300" height="500" style="max-width:100%;"></a>
-</p>
+
